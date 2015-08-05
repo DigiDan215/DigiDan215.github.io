@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://DigiDan215.github.io
+title: DigiDan's Information Technology Blog
+tagline: Technology news and updates
+description: This site is intended...
+paginate: 5
